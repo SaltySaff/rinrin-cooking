@@ -367,7 +367,7 @@ body::after {
 /*banner*/
 .hero {
     height:40vh;
-    background: url('RRwL\ Food\ -\ Copy/Deep-fried-wontons.JPG') center/cover no-repeat;
+    background: url('./assets/food/Deep-fried-wontons.JPG') center/cover no-repeat;
     margin: 2rem;
     border-radius: 0.25rem;
     position:relative;
